@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifiziaze.github.io/DnF/sitemap_index.txt
+Sitemap: https://ifiziaze.github.io/VHu/sitemap_index.txt
+Sitemap: https://ifiziaze.github.io/bJe/sitemap_index.txt
+Sitemap: https://ifiziaze.github.io/nRN/sitemap_index.txt
